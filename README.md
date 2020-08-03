@@ -1,2 +1,2 @@
-# Mathematics-for-Machine-Learning
-Repository contains math resources for Machine Learning
+# Mathematics for Machine Learning
+Repository contains Math resources for Machine Learning
